@@ -1,1 +1,2 @@
-print("hello MAIN")
+print("this is SPAAAAAAAAAAAAAARTAAAAAAAAAAAAA")
+print(45 + 7)
